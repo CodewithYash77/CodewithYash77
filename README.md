@@ -93,8 +93,9 @@ Mindset:
 
 ## 🛠️ Technical Skills
 
-### ☁️ Cloud
+ ☁️ Cloud
 #AWS EC2
+
 #AWS S3
 #AWS IAM
 #AWS VPC
