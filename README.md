@@ -25,8 +25,6 @@
 
 # 🧑‍💻 About Me
 
-
-
 I am **Yash Pawar**, a passionate **DevOps Intern and Cloud Enthusiast** focused on building, automating and deploying reliable applications and cloud infrastructure.
 
 I enjoy working with **AWS, Linux, Docker, Kubernetes, Git, CI/CD and Infrastructure Automation** and continuously improving my technical skills through hands-on projects.
@@ -78,6 +76,7 @@ Current_Goal:
 
 Mindset:
   "Learn → Build → Automate → Deploy → Monitor"
+```
 
 | Category           | Tools          |
 | ------------------ | -------------- |
@@ -92,9 +91,9 @@ Mindset:
 | 🖥️ Scripting      | Bash / Shell   |
 | 📊 Monitoring      | CloudWatch     |
 
-🛠️ Technical Skills
-☁️ Cloud
+## 🛠️ Technical Skills
 
+### ☁️ Cloud
 #AWS EC2
 #AWS S3
 #AWS IAM
@@ -105,7 +104,7 @@ Mindset:
 #AWS CloudWatch
 #AWS Route 53
 
-🐧 Linux & Shell
+### 🐧 Linux & Shell
 #Linux Administration
 #File Management
 #User Management
@@ -116,12 +115,13 @@ Mindset:
 #Shell Scripting
 #Package Management
 
-🗄️ Databases
+### 🗄️ Databases
 #MySQL
 #MongoDB
 #PostgreSQL
 
-📚 Currently Learning
+## 📚 Currently Learning
+
 | Technology      | Progress     |
 | --------------- | ------------ |
 | ☁️ AWS          | 🔄 Learning  |
@@ -134,15 +134,17 @@ Mindset:
 | 🔧 Git & GitHub | ✅ Practicing |
 | 🐍 Python       | ✅ Practicing |
 
-🎯 My Goals
-☁️ Master AWS Cloud
-🐳 Become strong in Docker
-☸️ Master Kubernetes
-🔄 Build production-ready CI/CD pipelines
-⚙️ Automate infrastructure using Terraform & Ansible
-🐧 Improve Linux & Shell Scripting
-📊 Learn advanced Monitoring & Observability
-🚀 Build real-world DevOps Projects
-💼 Become a Cloud & DevOps Engineer
+## 🎯 My Goals
+- ☁️ Master AWS Cloud
+- 🐳 Become strong in Docker
+- ☸️ Master Kubernetes
+- 🔄 Build production-ready CI/CD pipelines
+- ⚙️ Automate infrastructure using Terraform & Ansible
+- 🐧 Improve Linux & Shell Scripting
+- 📊 Learn advanced Monitoring & Observability
+- 🚀 Build real-world DevOps Projects
+- 💼 Become a Cloud & DevOps Engineer
+
+---
 
 # ⭐ Thank You for Visiting My Profile
