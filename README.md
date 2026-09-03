@@ -25,9 +25,7 @@
 
 # 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="700" alt="Coding"/>
-</p>
+
 
 I am **Yash Pawar**, a passionate **DevOps Intern and Cloud Enthusiast** focused on building, automating and deploying reliable applications and cloud infrastructure.
 
