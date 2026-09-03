@@ -5,7 +5,7 @@
 
 <!-- ================= JARVIS-STYLE TYPING INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Initializing+Yash's+Profile...;Systems+Online+%F0%9F%9F%A2;Welcome%2C+I'm+JARVIS+-+Yash's+Digital+Assistant;Loading+DevOps+Skillset...+Done+%E2%9C%85" alt="Jarvis Typing Intro" />
+ font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi I am Yash Pawar" />
 </p>
 
 <p align="center">
