@@ -29,7 +29,7 @@ I am **Yash Pawar**, a passionate **DevOps Intern and Cloud Enthusiast** focused
 
 I enjoy working with **AWS, Linux, Docker, Kubernetes, Git, CI/CD and Infrastructure Automation** and continuously improving my technical skills through hands-on projects.
 
-```yaml
+
 Name: Yash Pawar
 Role: DevOps Intern
 Location: India
@@ -76,7 +76,7 @@ Current_Goal:
 
 Mindset:
   "Learn → Build → Automate → Deploy → Monitor"
-```
+
 
 | Category           | Tools          |
 | ------------------ | -------------- |
@@ -95,7 +95,6 @@ Mindset:
 
  ☁️ Cloud
 #AWS EC2
-
 #AWS S3
 #AWS IAM
 #AWS VPC
