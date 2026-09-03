@@ -91,34 +91,52 @@ Mindset:
 | 🖥️ Scripting      | Bash / Shell   |
 | 📊 Monitoring      | CloudWatch     |
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
+☁️ Cloud (AWS)
+AWS EC2
 
- ☁️ Cloud
-#AWS EC2
-#AWS S3
-#AWS IAM
-#AWS VPC
-#AWS RDS
-#AWS Load Balancer
-#AWS Auto Scaling
-#AWS CloudWatch
-#AWS Route 53
+AWS S3
 
-### 🐧 Linux & Shell
-#Linux Administration
-#File Management
-#User Management
-#Permissions
-#Processes
-#Networking
-#SSH
-#Shell Scripting
-#Package Management
+AWS IAM
 
-### 🗄️ Databases
-#MySQL
-#MongoDB
-#PostgreSQL
+AWS VPC
+
+AWS RDS
+
+AWS Load Balancer
+
+AWS Auto Scaling
+
+AWS CloudWatch
+
+AWS Route 53
+
+🐧 Linux & Shell
+Linux Administration
+
+File Management
+
+User Management
+
+Permissions
+
+Processes
+
+Networking
+
+SSH
+
+Shell Scripting
+
+Package Management
+
+🗄️ Databases
+MySQL
+
+MongoDB
+
+PostgreSQL
+
 
 ## 📚 Currently Learning
 
