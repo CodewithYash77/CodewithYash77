@@ -68,7 +68,7 @@ Web:
 
 Database:
   - MySQL
-  - MongoDB
+  - Mariadb
   - PostgreSQL
 
 Current_Goal:
