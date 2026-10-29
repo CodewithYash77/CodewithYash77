@@ -1,158 +1,169 @@
-<div align="center">
+# 👋 Hi, I am Yash Pawar
 
-<!-- JARVIS AI / CYBER DEVOPS HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=250&section=header&text=YASH%20PAWAR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVOPS%20%7C%20CLOUD%20%7C%20AUTOMATION&descAlignY=58&descSize=22" width="100%" alt="Yash Pawar Cloud and DevOps Header"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:082F49,60:075985,100:00C6FF&height=240&section=header&text=YASH%20PAWAR&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=J.A.R.V.I.S%20%7C%20CLOUD%20%7C%20DEVOPS%20%7C%20AUTOMATION&descAlignY=60&descSize=17"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Hi+I+am+Yash+Pawar+%F0%9F%91%8B;DevOps+Intern+%7C+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Automation+%7C+CI%2FCD+%7C+Containerization;Build+%7C+Deploy+%7C+Automate+%7C+Monitor+%F0%9F%9A%80" alt="Typing Animation"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=J.A.R.V.I.S.+SYSTEM+INITIALIZED;WELCOME+BACK%2C+YASH+PAWAR;CLOUD+INFRASTRUCTURE+%7C+DEVOPS;AUTOMATION+%7C+CI%2FCD+%7C+CONTAINERIZATION;BUILD.+DEPLOY.+AUTOMATE.+MONITOR." alt="JARVIS AI Typing Animation"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="380" alt="JARVIS AI Animation"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,terraform,ansible,bash" alt="DevOps Tools"/>
+</p>
 
-<img src="https://img.shields.io/badge/SYSTEM-JARVIS%20ONLINE-00C6FF?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROLE-DEVOPS%20INTERN-0A84FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%26%20AUTOMATION-0891B2?style=for-the-badge"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodewithYash77&label=PROFILE%20VIEWS&color=00c6ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/CodewithYash77?label=FOLLOWERS&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/CodewithYash77">
-<img src="https://komarev.com/ghpvc/?username=CodewithYash77&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/CodewithYash77?tab=followers">
-<img src="https://img.shields.io/github/followers/CodewithYash77?style=for-the-badge&color=0F766E&label=FOLLOWERS" alt="GitHub Followers"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/yashpawar11092005/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/CodewithYash77">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashpawar11092005/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/CodewithYash77">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-```text
-USER          : Yash Pawar
-ROLE          : DevOps Intern
-LOCATION      : India
-MISSION       : Cloud & DevOps Engineering
-SYSTEM        : Learn | Build | Automate | Deploy | Monitor
-```
+I am **Yash Pawar**, a passionate **DevOps Intern and Cloud Enthusiast** focused on building, automating, and deploying reliable applications and cloud infrastructure.
 
-Hi! I'm **Yash Pawar**, a DevOps Intern and Cloud Enthusiast passionate about cloud infrastructure, automation, containerization, and reliable application deployments.
+I enjoy working with **AWS, Linux, Docker, Kubernetes, Git, CI/CD, and Infrastructure Automation** while continuously improving my technical skills through hands-on projects.
 
-I enjoy learning through hands-on projects and exploring how modern engineering teams build, deploy, and maintain applications.
-
-* ☁️ Exploring AWS cloud infrastructure
-* 🐧 Practicing Linux administration and shell scripting
-* 🐳 Learning Docker and containerization
-* ☸️ Exploring Kubernetes and orchestration
-* 🔄 Practicing Git, GitHub, and CI/CD fundamentals
+* ☁️ Exploring AWS Cloud Infrastructure
+* 🐧 Practicing Linux Administration and Shell Scripting
+* 🐳 Learning Docker and Containerization
+* ☸️ Exploring Kubernetes and Container Orchestration
+* 🔄 Practicing Git, GitHub, and CI/CD
 * 🏗️ Learning Terraform and Infrastructure as Code
-* ⚙️ Exploring Ansible and configuration management
+* ⚙️ Exploring Ansible and Configuration Management
 * 🚀 Building practical Cloud & DevOps projects
 
-> **My Mission:** Build practical skills and become a capable Cloud & DevOps Engineer.
+**My mindset:** Learn → Build → Automate → Deploy → Monitor.
 
 ---
 
-## 🤖 J.A.R.V.I.S. — Technical Systems
+# 🛠️ Technical Skills
 
-<div align="center">
+### ☁️ Cloud Computing — AWS
 
-### ☁️ CLOUD INFRASTRUCTURE
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+* Amazon EC2
+* Amazon S3
+* AWS IAM
+* Amazon VPC
+* Amazon RDS
+* Elastic Load Balancing
+* Auto Scaling
+* Amazon CloudWatch
+* Amazon Route 53
 
-`EC2` · `S3` · `IAM` · `VPC` · `RDS` · `CloudWatch` · `Route 53`
+### 🐧 Linux & Shell Scripting
 
-### ⚙️ DEVOPS & AUTOMATION
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible" alt="DevOps Tools"/>
+* Linux Administration
+* File and User Management
+* Permissions and Processes
+* Networking and SSH
+* Shell Scripting
+* Package Management
 
-`Docker` · `Kubernetes` · `Jenkins` · `Terraform` · `Ansible`
+### 🐳 DevOps & Automation
 
-### 🐧 SYSTEM OPERATIONS
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github" alt="DevOps and Automation Tools"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" alt="System Tools"/>
+* Docker and Containerization
+* Kubernetes Fundamentals
+* Jenkins and CI/CD Fundamentals
+* Git and GitHub
+* Terraform and Infrastructure as Code
+* Ansible and Configuration Management
 
-`Linux` · `Ubuntu` · `Bash` · `Git` · `GitHub`
+### 💻 Programming & Web Development
 
-### 💻 PROGRAMMING & WEB
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" alt="Programming Languages"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" alt="Programming Languages"/>
+* Python
+* C and C++
+* HTML, CSS, and JavaScript
 
-`Python` · `C` · `C++` · `HTML` · `CSS` · `JavaScript`
+### 🗄️ Databases
 
-### 🗄️ DATABASE SYSTEMS
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Database Technologies"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Database Tools"/>
-
-`MySQL` · `MariaDB` · `MongoDB` · `PostgreSQL`
-
-</div>
+* MySQL
+* MariaDB
+* MongoDB
+* PostgreSQL
 
 ---
 
-## 🧠 JARVIS System Capabilities
+# 🎮 Featured Project — Production War Room
 
-| System                   | Technologies  | Focus                              |
-| ------------------------ | ------------- | ---------------------------------- |
-| Cloud Infrastructure     | AWS           | Compute, networking, storage       |
-| Operating Systems        | Linux, Ubuntu | Administration and troubleshooting |
-| Containerization         | Docker        | Application packaging              |
-| Orchestration            | Kubernetes    | Container management               |
-| CI/CD                    | Jenkins, Git  | Build and deployment workflows     |
-| Infrastructure as Code   | Terraform     | Infrastructure provisioning        |
-| Configuration Management | Ansible       | Configuration automation           |
-| Monitoring               | CloudWatch    | Metrics and monitoring             |
-| Scripting                | Bash, Python  | Automation and problem-solving     |
+<p align="center">
+  <a href="https://production-war-room.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_PLAY_NOW-Production_War_Room-00C6FF?style=for-the-badge&labelColor=0F172A" alt="Play Production War Room"/>
+  </a>
+  <a href="https://github.com/CodewithYash77/Production-Game">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE-GitHub-181717?style=for-the-badge&logo=github" alt="View Source Code"/>
+  </a>
+</p>
 
----
+## 🔥 Production War Room — DevOps Incident Response Simulator
 
-## 🚀 Featured Project
+**A browser-based DevOps troubleshooting game designed around production incidents, log analysis, and SRE-style problem-solving.**
 
-<div align="center">
+Step into the role of an engineer investigating simulated production problems and work through the clues to identify potential causes.
 
-<a href="https://github.com/CodewithYash77/Production-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CodewithYash77&repo=Production-Game&theme=tokyonight&hide_border=true" alt="Production War Room Repository"/>
-</a>
-
-</div>
-
-### 🔥 Production War Room
-
-**DevOps Incident Response Simulator**
-
-A browser-based learning game designed around production troubleshooting, incident investigation, and SRE-style problem-solving.
-
-**Key features:**
+### ⚡ Key Features
 
 * 🔍 Investigate simulated production incidents
 * 📊 Analyze logs and monitoring metrics
-* 🛠️ Practice troubleshooting workflows
-* 🎯 Learn incident response concepts
+* 🛠️ Practice troubleshooting and incident investigation
+* 🚨 Explore production-style scenarios
+* 🎯 Improve practical DevOps and SRE problem-solving skills
 
-🌐 **[Launch Production War Room](https://production-war-room.vercel.app/)**
+### 🧰 Project Focus
 
-💻 **[Explore the GitHub Repository](https://github.com/CodewithYash77/Production-Game)**
+`DevOps` · `Incident Response` · `Troubleshooting` · `Monitoring Concepts` · `Web Development`
+
+<p align="center">
+  <a href="https://production-war-room.vercel.app/">
+    <img src="https://img.shields.io/badge/ENTER_THE_WAR_ROOM-Launch_Game-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Game"/>
+  </a>
+</p>
+
+> 💡 **Try the game:** Investigate the incidents and test your troubleshooting skills.
 
 ---
 
-## 📊 GitHub Command Center
+# 📊 GitHub Contributions & Analytics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=CodewithYash77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithYash77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithYash77&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <br/><br/>
 
@@ -166,67 +177,57 @@ A browser-based learning game designed around production troubleshooting, incide
 
 ---
 
-## 🟢 Learning & Development Protocol
+# 📚 Currently Learning
 
-| Technology      | Current Focus                              |
-| --------------- | ------------------------------------------ |
-| ☁️ AWS          | Cloud services and infrastructure projects |
-| 🐧 Linux        | Commands, administration, and networking   |
-| 🐳 Docker       | Containers and image management            |
-| ☸️ Kubernetes   | Deployments and services                   |
-| 🔄 Jenkins      | CI/CD fundamentals                         |
-| 🏗️ Terraform   | Infrastructure as Code                     |
-| ⚙️ Ansible      | Configuration automation                   |
-| 🐍 Python       | Scripting and problem-solving              |
-| 🔧 Git & GitHub | Version control and collaboration          |
-
-### 🎯 Mission Objectives
-
-* [x] Practice Git and GitHub fundamentals
-* [x] Build hands-on development projects
-* [ ] Strengthen Linux and networking knowledge
-* [ ] Build more AWS cloud projects
-* [ ] Develop CI/CD pipelines
-* [ ] Practice Docker and Kubernetes deployments
-* [ ] Automate infrastructure with Terraform
-* [ ] Improve monitoring and troubleshooting skills
-
-*Update these milestones as your practical experience grows.*
+| Technology      | Focus                             |
+| --------------- | --------------------------------- |
+| ☁️ AWS          | Cloud services and infrastructure |
+| 🐧 Linux        | Administration and networking     |
+| 🐳 Docker       | Containers and images             |
+| ☸️ Kubernetes   | Deployments and orchestration     |
+| 🔄 Jenkins      | CI/CD fundamentals                |
+| ⚙️ Ansible      | Configuration automation          |
+| 🏗️ Terraform   | Infrastructure as Code            |
+| 🔧 Git & GitHub | Version control and collaboration |
+| 🐍 Python       | Scripting and problem-solving     |
 
 ---
 
-## ⚡ Engineering Philosophy
+# 🎯 My Goals
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=00C6FF&center=true&vCenter=true&width=650&height=50&lines=LEARN+%E2%86%92+BUILD;BUILD+%E2%86%92+AUTOMATE;AUTOMATE+%E2%86%92+DEPLOY;DEPLOY+%E2%86%92+MONITOR;REPEAT+%E2%80%94+IMPROVE+EVERY+DAY" alt="Engineering Philosophy"/>
-
-</div>
-
-I believe in learning by doing, documenting what I build, solving real-world problems, and improving one project at a time.
+* ☁️ Strengthen AWS Cloud skills
+* 🐳 Improve Docker knowledge
+* ☸️ Learn Kubernetes practically
+* 🔄 Build reliable CI/CD pipelines
+* ⚙️ Automate infrastructure using Terraform and Ansible
+* 🐧 Improve Linux and Shell Scripting
+* 📊 Learn monitoring and observability
+* 🚀 Build more real-world DevOps projects
+* 💼 Grow into a Cloud & DevOps Engineer
 
 ---
 
-## 🤝 Establish Connection
+# 🤝 Let's Connect
 
-I'm interested in connecting with developers, cloud engineers, and DevOps professionals to exchange knowledge and learn from practical experiences.
+I'm always interested in learning from the developer community, building practical projects, and connecting with people passionate about Cloud Computing and DevOps.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashpawar11092005/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://github.com/CodewithYash77">
+    <img src="https://img.shields.io/badge/GitHub-CodewithYash77-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yashpawar11092005/">
-<img src="https://img.shields.io/badge/LinkedIn-Yash%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-</a>
+### ⭐ Thank You for Visiting My Profile!
 
-<a href="https://github.com/CodewithYash77">
-<img src="https://img.shields.io/badge/GitHub-CodewithYash77-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
+**Keep Learning. Keep Building. Keep Automating. 🚀**
 
-<br/><br/>
-
-### 🤖 J.A.R.V.I.S. SYSTEM MESSAGE
-
-**Keep Learning. Keep Building. Keep Automating.** 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082F49,70:075985,100:00C6FF&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=120&section=footer" alt="Footer"/>
 
 </div>
